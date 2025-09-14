@@ -6,7 +6,7 @@ Today I learned a bunch of cool things, and I want to summarize them here. You m
 
 ---
 
-# A short casual history: from bits to C++ (notes)
+## A short casual history: from bits to C++ (notes)
 
 Computers don’t literally “understand” 0s and 1s like we read letters. At the lowest level, they represent data using binary — two distinct physical states (like voltage levels or magnetic orientations) that we label as 0 and 1. Early input methods like punch cards encoded data using holes and non-holes, but the mapping between hole ↔ bit depended on the machine. The key idea: physical states get mapped to binary values, and binary is what hardware deals with.
 
@@ -25,6 +25,7 @@ C became super popular because UNIX and lots of important software were written 
 Over time, C++ got standardized and evolved a lot. While C and C++ are often called “low-level” compared to languages like Python, many people consider them “mid-level” because they let you work close to the hardware *and* use high-level abstractions. That flexibility is a big deal.
 
 A major milestone was **C++11** — the 2011 standard — which introduced modern features like:
+
 - `auto` type deduction  
 - lambda expressions (anonymous functions)  
 - move semantics and rvalue references (better performance via resource moves)  
