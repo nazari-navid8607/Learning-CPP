@@ -1,4 +1,4 @@
-## I think the method I was using to learn C++ was wrong
+# I think the method I was using to learn C++ was wrong
 
 When I was learning C++, I spent a lot of time writing documents and READMEs about what I learned each day, how things worked, and explaining the concepts I had just studied. This took too much of my time and stopped me from focusing on the main goal: actually learning the C++ language.
 
